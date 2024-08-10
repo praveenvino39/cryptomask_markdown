@@ -1,4 +1,8 @@
-<a href="#"><img src="https://github.com/praveenvino39/cryptomask_markdown/blob/main/download%20wallet.png?raw=true" width=30% height=30%></a> <a href="#"><img src="https://github.com/praveenvino39/cryptomask_markdown/blob/main/download%20admin%20app.png?raw=true" width=37% height=37%></a> <a href="https://cryptomask-landing-page.pvapps.in/"><img src="https://github.com/praveenvino39/cryptomask_markdown/blob/main/landing%20page.png?raw=true" width=30% height=30%></a>
+
+⌄            |  ⌄ |  ⌄
+:-------------------------:|:-------------------------: |:-------------------------:
+![Solid](https://github.com/praveenvino39/cryptomask_markdown/raw/main/download%20wallet.png?raw=true)  | ![Solid](https://github.com/praveenvino39/cryptomask_markdown/raw/main/download%20admin%20app.png?raw=true) |![Solid](https://github.com/praveenvino39/cryptomask_markdown/raw/main/landing%20page.png?raw=true)
+
 
 ![\N|Solid](https://raw.githubusercontent.com/praveenvino39/cryptomask_markdown/main/MacBook%20Pro%2014_%20-%200.png)
 ![\N|Solid](https://raw.githubusercontent.com/praveenvino39/cryptomask_markdown/main/MacBook%20Pro%2014_%20-%201.png)
