@@ -14,7 +14,7 @@
 ![\N|Solid](https://raw.githubusercontent.com/praveenvino39/cryptomask_markdown/main/MacBook%20Pro%2014_%20-%2013.png)
 ![\N|Solid](https://raw.githubusercontent.com/praveenvino39/cryptomask_markdown/main/MacBook%20Pro%2014_%20-%2014.png)
 
-##### OLD Version (This description left this for version management purpose)
+##### OLD Version (This description left for version management purpose)
 
 ###### Ethereum ERC20-based crypto wallet. Users can send, receive and swap ETH or any ERC20-based tokens. It is developed with Flutter 3 (Null-safety) to support Android, IOS and Web.
 
