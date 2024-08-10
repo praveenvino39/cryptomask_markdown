@@ -1,6 +1,6 @@
-# Dillinger
+<!-- # Dillinger
 
-## _The Last Markdown Editor, Ever_
+## _The Last Markdown Editor, Ever_ -->
 
 ![\N|Solid](https://raw.githubusercontent.com/praveenvino39/cryptomask_markdown/main/MacBook%20Pro%2014_%20-%200.png)
 ![\N|Solid](https://raw.githubusercontent.com/praveenvino39/cryptomask_markdown/main/MacBook%20Pro%2014_%20-%201.png)
